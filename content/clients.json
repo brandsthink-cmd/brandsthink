@@ -1,0 +1,839 @@
+[
+  {
+    "name": "3rd Degree Productions",
+    "slug": "3rd-degree-productions",
+    "src": "/clients/3rd-degree-productions.webp",
+    "width": 121,
+    "height": 28,
+    "background": "light",
+    "source": "old-site"
+  },
+  {
+    "name": "4 Sides TV English",
+    "slug": "4-sides-tv-english",
+    "src": "/clients/4-sides-tv-english.webp",
+    "width": 84,
+    "height": 125,
+    "background": "light",
+    "source": "old-site"
+  },
+  {
+    "name": "4 Sides TV Fashion",
+    "slug": "4-sides-tv-fashion",
+    "src": "/clients/4-sides-tv-fashion.webp",
+    "width": 125,
+    "height": 125,
+    "background": "light",
+    "source": "old-site"
+  },
+  {
+    "name": "4 Sides TV Hindi",
+    "slug": "4-sides-tv-hindi",
+    "src": "/clients/4-sides-tv-hindi.webp",
+    "width": 83,
+    "height": 125,
+    "background": "light",
+    "source": "old-site"
+  },
+  {
+    "name": "4 Sides TV Kannada",
+    "slug": "4-sides-tv-kannada",
+    "src": "/clients/4-sides-tv-kannada.webp",
+    "width": 84,
+    "height": 125,
+    "background": "light",
+    "source": "old-site"
+  },
+  {
+    "name": "4 Sides TV Telugu",
+    "slug": "4-sides-tv-telugu",
+    "src": "/clients/4-sides-tv-telugu.webp",
+    "width": 83,
+    "height": 125,
+    "background": "light",
+    "source": "old-site"
+  },
+  {
+    "name": "Acotoman India Private Limited",
+    "slug": "acotoman-india-private-limited",
+    "src": "/clients/acotoman-india-private-limited.webp",
+    "width": 137,
+    "height": 116,
+    "background": "light",
+    "source": "old-site"
+  },
+  {
+    "name": "Alien Shipping",
+    "slug": "alien-shipping",
+    "src": "/clients/alien-shipping.webp",
+    "width": 231,
+    "height": 200,
+    "background": "light",
+    "source": "original"
+  },
+  {
+    "name": "Alina Interiors",
+    "slug": "alina-interiors",
+    "src": "/clients/alina-interiors.webp",
+    "width": 114,
+    "height": 125,
+    "background": "light",
+    "source": "old-site"
+  },
+  {
+    "name": "AlMathaq",
+    "slug": "almathaq",
+    "src": "/clients/almathaq.webp",
+    "width": 420,
+    "height": 119,
+    "background": "light",
+    "source": "original"
+  },
+  {
+    "name": "AlphaArc",
+    "slug": "alphaarc",
+    "src": "/clients/alphaarc.webp",
+    "width": 201,
+    "height": 200,
+    "background": "light",
+    "source": "original"
+  },
+  {
+    "name": "Amazon Prime Video",
+    "slug": "amazon-prime-video",
+    "src": "/clients/amazon-prime-video.webp",
+    "width": 125,
+    "height": 40,
+    "background": "light",
+    "source": "old-site"
+  },
+  {
+    "name": "AMMA",
+    "slug": "amma",
+    "src": "/clients/amma.webp",
+    "width": 65,
+    "height": 125,
+    "background": "light",
+    "source": "old-site"
+  },
+  {
+    "name": "Arc N Glow",
+    "slug": "arc-n-glow",
+    "src": "/clients/arc-n-glow.webp",
+    "width": 125,
+    "height": 121,
+    "background": "light",
+    "source": "old-site"
+  },
+  {
+    "name": "Atharv",
+    "slug": "atharv",
+    "src": "/clients/atharv.webp",
+    "width": 121,
+    "height": 125,
+    "background": "light",
+    "source": "old-site"
+  },
+  {
+    "name": "AZ Insurance Agency",
+    "slug": "az-insurance-agency",
+    "src": "/clients/az-insurance-agency.webp",
+    "width": 125,
+    "height": 71,
+    "background": "light",
+    "source": "old-site"
+  },
+  {
+    "name": "Binomo",
+    "slug": "binomo",
+    "src": "/clients/binomo.webp",
+    "width": 125,
+    "height": 31,
+    "background": "light",
+    "source": "old-site"
+  },
+  {
+    "name": "BNI Trivandrum",
+    "slug": "bni-trivandrum",
+    "src": "/clients/bni-trivandrum.webp",
+    "width": 125,
+    "height": 49,
+    "background": "light",
+    "source": "old-site"
+  },
+  {
+    "name": "CarePlus Institute of Paramedical",
+    "slug": "careplus-institute-of-paramedical",
+    "src": "/clients/careplus-institute-of-paramedical.webp",
+    "width": 229,
+    "height": 200,
+    "background": "light",
+    "source": "original"
+  },
+  {
+    "name": "Central Scotland Malayalee Association",
+    "slug": "central-scotland-malayalee-association",
+    "src": "/clients/central-scotland-malayalee-association.webp",
+    "width": 347,
+    "height": 200,
+    "background": "light",
+    "source": "original"
+  },
+  {
+    "name": "Cinephile",
+    "slug": "cinephile",
+    "src": "/clients/cinephile.webp",
+    "width": 123,
+    "height": 31,
+    "background": "light",
+    "source": "old-site"
+  },
+  {
+    "name": "Civilianz",
+    "slug": "civilianz",
+    "src": "/clients/civilianz.webp",
+    "width": 125,
+    "height": 51,
+    "background": "light",
+    "source": "old-site"
+  },
+  {
+    "name": "Creations",
+    "slug": "creations",
+    "src": "/clients/creations.webp",
+    "width": 200,
+    "height": 200,
+    "background": "light",
+    "source": "original"
+  },
+  {
+    "name": "Danzora",
+    "slug": "danzora",
+    "src": "/clients/danzora.webp",
+    "width": 225,
+    "height": 200,
+    "background": "dark",
+    "source": "original"
+  },
+  {
+    "name": "Delight Baiko",
+    "slug": "delight-baiko",
+    "src": "/clients/delight-baiko.webp",
+    "width": 125,
+    "height": 125,
+    "background": "light",
+    "source": "old-site"
+  },
+  {
+    "name": "Dr. Priyadarshan Vastu",
+    "slug": "dr-priyadarshan-vastu",
+    "src": "/clients/dr-priyadarshan-vastu.webp",
+    "width": 203,
+    "height": 200,
+    "background": "light",
+    "source": "original"
+  },
+  {
+    "name": "EAFL",
+    "slug": "eafl",
+    "src": "/clients/eafl.webp",
+    "width": 125,
+    "height": 71,
+    "background": "light",
+    "source": "old-site"
+  },
+  {
+    "name": "Electromech Systems & Technologies",
+    "slug": "electromech-systems-technologies",
+    "src": "/clients/electromech-systems-technologies.webp",
+    "width": 125,
+    "height": 73,
+    "background": "light",
+    "source": "old-site"
+  },
+  {
+    "name": "Empire Tattoo",
+    "slug": "empire-tattoo",
+    "src": "/clients/empire-tattoo.webp",
+    "width": 361,
+    "height": 200,
+    "background": "light",
+    "source": "original"
+  },
+  {
+    "name": "Ensemblee",
+    "slug": "ensemblee",
+    "src": "/clients/ensemblee.webp",
+    "width": 420,
+    "height": 69,
+    "background": "light",
+    "source": "original"
+  },
+  {
+    "name": "Ente Story",
+    "slug": "ente-story",
+    "src": "/clients/ente-story.webp",
+    "width": 200,
+    "height": 200,
+    "background": "light",
+    "source": "original"
+  },
+  {
+    "name": "Fit Hackers Fitness Club",
+    "slug": "fit-hackers-fitness-club",
+    "src": "/clients/fit-hackers-fitness-club.webp",
+    "width": 206,
+    "height": 200,
+    "background": "dark",
+    "source": "original"
+  },
+  {
+    "name": "Fortuna Events",
+    "slug": "fortuna-events",
+    "src": "/clients/fortuna-events.webp",
+    "width": 113,
+    "height": 125,
+    "background": "light",
+    "source": "old-site"
+  },
+  {
+    "name": "Friday Bird",
+    "slug": "friday-bird",
+    "src": "/clients/friday-bird.webp",
+    "width": 125,
+    "height": 43,
+    "background": "light",
+    "source": "old-site"
+  },
+  {
+    "name": "Gamers Junction",
+    "slug": "gamers-junction",
+    "src": "/clients/gamers-junction.webp",
+    "width": 125,
+    "height": 92,
+    "background": "light",
+    "source": "old-site"
+  },
+  {
+    "name": "God Bright Photography",
+    "slug": "god-bright-photography",
+    "src": "/clients/god-bright-photography.webp",
+    "width": 366,
+    "height": 134,
+    "background": "dark",
+    "source": "original"
+  },
+  {
+    "name": "Gotripzee",
+    "slug": "gotripzee",
+    "src": "/clients/gotripzee.webp",
+    "width": 420,
+    "height": 104,
+    "background": "dark",
+    "source": "original"
+  },
+  {
+    "name": "Granny Movie",
+    "slug": "granny-movie",
+    "src": "/clients/granny-movie.webp",
+    "width": 125,
+    "height": 98,
+    "background": "light",
+    "source": "old-site"
+  },
+  {
+    "name": "Indian Fashion TV",
+    "slug": "indian-fashion-tv",
+    "src": "/clients/indian-fashion-tv.webp",
+    "width": 125,
+    "height": 62,
+    "background": "light",
+    "source": "old-site"
+  },
+  {
+    "name": "Indimasi",
+    "slug": "indimasi",
+    "src": "/clients/indimasi.webp",
+    "width": 125,
+    "height": 84,
+    "background": "light",
+    "source": "old-site"
+  },
+  {
+    "name": "Intel",
+    "slug": "intel",
+    "src": "/clients/intel.webp",
+    "width": 125,
+    "height": 53,
+    "background": "light",
+    "source": "old-site"
+  },
+  {
+    "name": "John Cox Memorial CSI Institute of Technology",
+    "slug": "john-cox-memorial-csi-institute-of-technology",
+    "src": "/clients/john-cox-memorial-csi-institute-of-technology.webp",
+    "width": 114,
+    "height": 125,
+    "background": "light",
+    "source": "old-site"
+  },
+  {
+    "name": "KT Edurite",
+    "slug": "kt-edurite",
+    "src": "/clients/kt-edurite.webp",
+    "width": 122,
+    "height": 75,
+    "background": "light",
+    "source": "old-site"
+  },
+  {
+    "name": "KURDFC",
+    "slug": "kurdfc",
+    "src": "/clients/kurdfc.webp",
+    "width": 125,
+    "height": 121,
+    "background": "light",
+    "source": "old-site"
+  },
+  {
+    "name": "Lekshmi & Associates",
+    "slug": "lekshmi-associates",
+    "src": "/clients/lekshmi-associates.webp",
+    "width": 125,
+    "height": 9,
+    "background": "light",
+    "source": "old-site"
+  },
+  {
+    "name": "M. S. Sarkar Dispensary",
+    "slug": "m-s-sarkar-dispensary",
+    "src": "/clients/m-s-sarkar-dispensary.webp",
+    "width": 207,
+    "height": 200,
+    "background": "light",
+    "source": "original"
+  },
+  {
+    "name": "Mayfair Foods",
+    "slug": "mayfair-foods",
+    "src": "/clients/mayfair-foods.webp",
+    "width": 335,
+    "height": 200,
+    "background": "light",
+    "source": "original"
+  },
+  {
+    "name": "McLa",
+    "slug": "mcla",
+    "src": "/clients/mcla.webp",
+    "width": 420,
+    "height": 167,
+    "background": "dark",
+    "source": "original"
+  },
+  {
+    "name": "Memoir Holidays",
+    "slug": "memoir-holidays",
+    "src": "/clients/memoir-holidays.webp",
+    "width": 343,
+    "height": 200,
+    "background": "dark",
+    "source": "original"
+  },
+  {
+    "name": "MetSand",
+    "slug": "metsand",
+    "src": "/clients/metsand.webp",
+    "width": 420,
+    "height": 97,
+    "background": "dark",
+    "source": "original"
+  },
+  {
+    "name": "Moza Al Raqmi Law Firm",
+    "slug": "moza-al-raqmi-law-firm",
+    "src": "/clients/moza-al-raqmi-law-firm.webp",
+    "width": 314,
+    "height": 200,
+    "background": "light",
+    "source": "original"
+  },
+  {
+    "name": "Nalla Chaya",
+    "slug": "nalla-chaya",
+    "src": "/clients/nalla-chaya.webp",
+    "width": 125,
+    "height": 49,
+    "background": "light",
+    "source": "old-site"
+  },
+  {
+    "name": "Netflix",
+    "slug": "netflix",
+    "src": "/clients/netflix.webp",
+    "width": 125,
+    "height": 35,
+    "background": "light",
+    "source": "old-site"
+  },
+  {
+    "name": "Nexus Makeover Studio",
+    "slug": "nexus-makeover-studio",
+    "src": "/clients/nexus-makeover-studio.webp",
+    "width": 125,
+    "height": 125,
+    "background": "light",
+    "source": "old-site"
+  },
+  {
+    "name": "Northern Ireland Malayali Association",
+    "slug": "northern-ireland-malayali-association",
+    "src": "/clients/northern-ireland-malayali-association.webp",
+    "width": 420,
+    "height": 169,
+    "background": "light",
+    "source": "original"
+  },
+  {
+    "name": "Obiz Overseas",
+    "slug": "obiz-overseas",
+    "src": "/clients/obiz-overseas.webp",
+    "width": 125,
+    "height": 69,
+    "background": "light",
+    "source": "old-site"
+  },
+  {
+    "name": "Palazhi Ayurveda",
+    "slug": "palazhi-ayurveda",
+    "src": "/clients/palazhi-ayurveda.webp",
+    "width": 96,
+    "height": 99,
+    "background": "light",
+    "source": "old-site"
+  },
+  {
+    "name": "Perfect",
+    "slug": "perfect",
+    "src": "/clients/perfect.webp",
+    "width": 420,
+    "height": 98,
+    "background": "light",
+    "source": "original"
+  },
+  {
+    "name": "Pet Traces",
+    "slug": "pet-traces",
+    "src": "/clients/pet-traces.webp",
+    "width": 303,
+    "height": 200,
+    "background": "light",
+    "source": "original"
+  },
+  {
+    "name": "Phifer",
+    "slug": "phifer",
+    "src": "/clients/phifer.webp",
+    "width": 420,
+    "height": 172,
+    "background": "dark",
+    "source": "original"
+  },
+  {
+    "name": "Planet Jewel",
+    "slug": "planet-jewel",
+    "src": "/clients/planet-jewel.webp",
+    "width": 282,
+    "height": 200,
+    "background": "light",
+    "source": "original"
+  },
+  {
+    "name": "Pobail",
+    "slug": "pobail",
+    "src": "/clients/pobail.webp",
+    "width": 109,
+    "height": 125,
+    "background": "light",
+    "source": "old-site"
+  },
+  {
+    "name": "Provenance HR Consultancy",
+    "slug": "provenance-hr-consultancy",
+    "src": "/clients/provenance-hr-consultancy.webp",
+    "width": 164,
+    "height": 200,
+    "background": "light",
+    "source": "original"
+  },
+  {
+    "name": "PS5",
+    "slug": "ps5",
+    "src": "/clients/ps5.svg",
+    "width": 512,
+    "height": 111,
+    "background": "light",
+    "source": "https://commons.wikimedia.org/wiki/File:PlayStation_5_logo_and_wordmark.svg"
+  },
+  {
+    "name": "RJ’s Tea Town",
+    "slug": "rj-s-tea-town",
+    "src": "/clients/rj-s-tea-town.webp",
+    "width": 420,
+    "height": 178,
+    "background": "light",
+    "source": "original"
+  },
+  {
+    "name": "Rooter",
+    "slug": "rooter",
+    "src": "/clients/rooter.webp",
+    "width": 125,
+    "height": 35,
+    "background": "light",
+    "source": "old-site"
+  },
+  {
+    "name": "Rush Gaming Universe",
+    "slug": "rush-gaming-universe",
+    "src": "/clients/rush-gaming-universe.webp",
+    "width": 125,
+    "height": 35,
+    "background": "light",
+    "source": "old-site"
+  },
+  {
+    "name": "Saji Exports",
+    "slug": "saji-exports",
+    "src": "/clients/saji-exports.webp",
+    "width": 420,
+    "height": 136,
+    "background": "light",
+    "source": "original"
+  },
+  {
+    "name": "Sandeep Connect",
+    "slug": "sandeep-connect",
+    "src": "/clients/sandeep-connect.webp",
+    "width": 197,
+    "height": 200,
+    "background": "light",
+    "source": "original"
+  },
+  {
+    "name": "Simple Distributors",
+    "slug": "simple-distributors",
+    "src": "/clients/simple-distributors.webp",
+    "width": 125,
+    "height": 114,
+    "background": "light",
+    "source": "old-site"
+  },
+  {
+    "name": "Spice Kettle",
+    "slug": "spice-kettle",
+    "src": "/clients/spice-kettle.webp",
+    "width": 125,
+    "height": 124,
+    "background": "light",
+    "source": "old-site"
+  },
+  {
+    "name": "Surplus",
+    "slug": "surplus",
+    "src": "/clients/surplus.webp",
+    "width": 125,
+    "height": 27,
+    "background": "light",
+    "source": "old-site"
+  },
+  {
+    "name": "Svaad",
+    "slug": "svaad",
+    "src": "/clients/svaad.webp",
+    "width": 200,
+    "height": 200,
+    "background": "light",
+    "source": "original"
+  },
+  {
+    "name": "TATA Neu",
+    "slug": "tata-neu",
+    "src": "/clients/tata-neu.webp",
+    "width": 125,
+    "height": 91,
+    "background": "light",
+    "source": "old-site"
+  },
+  {
+    "name": "Teachers Near Me",
+    "slug": "teachers-near-me",
+    "src": "/clients/teachers-near-me.webp",
+    "width": 420,
+    "height": 147,
+    "background": "light",
+    "source": "original"
+  },
+  {
+    "name": "Teal Parrot",
+    "slug": "teal-parrot",
+    "src": "/clients/teal-parrot.webp",
+    "width": 420,
+    "height": 161,
+    "background": "light",
+    "source": "original"
+  },
+  {
+    "name": "Thekkumkal Infra Developers",
+    "slug": "thekkumkal-infra-developers",
+    "src": "/clients/thekkumkal-infra-developers.webp",
+    "width": 270,
+    "height": 200,
+    "background": "light",
+    "source": "original"
+  },
+  {
+    "name": "Trichut Fashion Jewellery",
+    "slug": "trichut-fashion-jewellery",
+    "src": "/clients/trichut-fashion-jewellery.webp",
+    "width": 125,
+    "height": 56,
+    "background": "light",
+    "source": "old-site"
+  },
+  {
+    "name": "Turnip",
+    "slug": "turnip",
+    "src": "/clients/turnip.webp",
+    "width": 125,
+    "height": 35,
+    "background": "light",
+    "source": "old-site"
+  },
+  {
+    "name": "TVM Homes",
+    "slug": "tvm-homes",
+    "src": "/clients/tvm-homes.webp",
+    "width": 240,
+    "height": 200,
+    "background": "dark",
+    "source": "original"
+  },
+  {
+    "name": "ULKA TV",
+    "slug": "ulka-tv",
+    "src": "/clients/ulka-tv.webp",
+    "width": 249,
+    "height": 200,
+    "background": "light",
+    "source": "original"
+  },
+  {
+    "name": "Uplife",
+    "slug": "uplife",
+    "src": "/clients/uplife.webp",
+    "width": 420,
+    "height": 138,
+    "background": "light",
+    "source": "original"
+  },
+  {
+    "name": "V Power Solar Solutions",
+    "slug": "v-power-solar-solutions",
+    "src": "/clients/v-power-solar-solutions.webp",
+    "width": 420,
+    "height": 118,
+    "background": "light",
+    "source": "original"
+  },
+  {
+    "name": "Varnam",
+    "slug": "varnam",
+    "src": "/clients/varnam.webp",
+    "width": 208,
+    "height": 200,
+    "background": "dark",
+    "source": "original"
+  },
+  {
+    "name": "Virus Mens Park",
+    "slug": "virus-mens-park",
+    "src": "/clients/virus-mens-park.webp",
+    "width": 125,
+    "height": 111,
+    "background": "light",
+    "source": "old-site"
+  },
+  {
+    "name": "Vishweka Ayurveda",
+    "slug": "vishweka-ayurveda",
+    "src": "/clients/vishweka-ayurveda.webp",
+    "width": 420,
+    "height": 131,
+    "background": "dark",
+    "source": "original"
+  },
+  {
+    "name": "VKA Builders",
+    "slug": "vka-builders",
+    "src": "/clients/vka-builders.webp",
+    "width": 170,
+    "height": 200,
+    "background": "light",
+    "source": "original"
+  },
+  {
+    "name": "Wayanad Trip Planner",
+    "slug": "wayanad-trip-planner",
+    "src": "/clients/wayanad-trip-planner.webp",
+    "width": 388,
+    "height": 200,
+    "background": "dark",
+    "source": "original"
+  },
+  {
+    "name": "Wishcraft",
+    "slug": "wishcraft",
+    "src": "/clients/wishcraft.webp",
+    "width": 420,
+    "height": 186,
+    "background": "light",
+    "source": "original"
+  },
+  {
+    "name": "Yashvasin Logistics",
+    "slug": "yashvasin-logistics",
+    "src": "/clients/yashvasin-logistics.webp",
+    "width": 125,
+    "height": 29,
+    "background": "light",
+    "source": "old-site"
+  },
+  {
+    "name": "Zela Fashion Channel",
+    "slug": "zela-fashion-channel",
+    "src": "/clients/zela-fashion-channel.webp",
+    "width": 80,
+    "height": 124,
+    "background": "light",
+    "source": "old-site"
+  },
+  {
+    "name": "Ziridaily",
+    "slug": "ziridaily",
+    "src": "/clients/ziridaily.webp",
+    "width": 125,
+    "height": 43,
+    "background": "light",
+    "source": "old-site"
+  },
+  {
+    "name": "Zirimart",
+    "slug": "zirimart",
+    "src": "/clients/zirimart.webp",
+    "width": 125,
+    "height": 47,
+    "background": "light",
+    "source": "old-site"
+  }
+]

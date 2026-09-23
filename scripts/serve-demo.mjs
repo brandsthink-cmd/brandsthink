@@ -1,0 +1,5 @@
+import http from 'node:http';
+import fs from 'node:fs/promises';
+import path from 'node:path';
+const root=path.resolve('docs');
+http.createServer(async(req,res)=>{try{let pathname=decodeURIComponent(new URL(req.url,'http://localhost').pathname);if(!pathname.startsWith('/brandsthink/')){res.writeHead(302,{Location:'/brandsthink/'});res.end();return}let file=path.resolve(root,pathname.slice(13));if(file!==root&&!file.startsWith(root+path.sep))throw Error();if((await fs.stat(file)).isDirectory())file=path.join(file,'index.html');const type={'.html':'text/html; charset=utf-8','.css':'text/css','.js':'text/javascript','.webp':'image/webp','.svg':'image/svg+xml','.xml':'application/xml','.txt':'text/plain'}[path.extname(file)]||'application/octet-stream';res.writeHead(200,{'Content-Type':type});res.end(await fs.readFile(file))}catch{res.writeHead(404,{'Content-Type':'text/html'});res.end(await fs.readFile(path.join(root,'404.html')))}}).listen(5175,'127.0.0.1',()=>console.log('Demo at http://127.0.0.1:5175/brandsthink/'));
